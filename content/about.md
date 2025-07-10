@@ -1,0 +1,31 @@
++++
+title = 'About'
+date = 2025-07-09T08:00:00+08:00
+draft = false
++++
+
+I'm Yiyu Liu, a PhD student in Computer Science and also an amateur
+photographer.
+For my research profile, please visit my [homepage](https://lau.yeeyu.org/).
+
+Photography differs from real life in that it captures a still moment.
+This static nature creates a sense of artistry, as the distance between
+the photograph and reality allows for the expression of something unique.
+Elements such as exposure time, camera perspective, focal length, and bokeh
+work together to shape an image that, while reminiscent of reality, is
+inherently distinct.
+
+Videos, in contrast, represent a flow of moments, yet they too maintain a
+certain separation from reality. This is achieved through techniques like
+montage[^1], camera angles and positioning, clip duration, and background
+sound, among others. Videos often convey richer ideas and emotions, making
+them even more meaningful than still images.
+
+I am deeply interested in the art of photography and video, and I'd love
+to share some of my photos and videos with you.
+Since photos takes less effort to create, I'll be sharing more of them.
+
+I hope you enjoy the photos and videos I share here!
+
+[^1]: A film editing technique in which a series of short shots are sequenced
+to condense space, time, and information.
