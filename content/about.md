@@ -29,3 +29,12 @@ I hope you enjoy the photos and videos I share here!
 
 [^1]: A film editing technique in which a series of short shots are sequenced
 to condense space, time, and information.
+
+## Site Project
+
+The site project uses the modified [hugo-paper theme][hugo-paper] and is powered
+by [hugo][gohugo]. The website runs on [vercel.com][vercel].
+
+[hugo-paper]: https://github.com/LauYeeYu/hugo-paper
+[gohugo]: https://gohugo.io/
+[vercel]: https://vercel.com/

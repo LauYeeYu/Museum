@@ -18,9 +18,9 @@ ignoreErrors = ["error-remote-getjson"]
 #  github = 'nanxiaobei'
 #  instagram = 'nan.xiaobei'
 
-avatar = 'liuyiyu2003@gmail.com'
-  name = 'Yiyu'
-  bio = 'Be yourself'
+# avatar = 'liuyiyu2003@gmail.com'
+  name = 'Yiyu Liu'
+  bio = 'A personal album'
 # ------------------------------
 
 # needed to  render raw HTML (e.g. <sub>, <sup>, <kbd>, <mark>)
