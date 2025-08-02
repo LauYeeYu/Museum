@@ -4,7 +4,7 @@ date = 2025-07-09T08:00:00+08:00
 draft = false
 +++
 
-I'm Yiyu Liu, a PhD student in Computer Science and also an amateur
+I'm Yiyu Liu, an imcoming PhD student in Computer Science and also an amateur
 photographer.
 For my research profile, please visit my [homepage](https://lau.yeeyu.org/).
 
@@ -29,6 +29,13 @@ I hope you enjoy the photos and videos I share here!
 
 [^1]: A film editing technique in which a series of short shots are sequenced
 to condense space, time, and information.
+
+## Site Name: I Am What I Am
+
+The name comes from *Exodus 3:14* in the Hebrew Bible---"I Am That I Am", or
+"I am what I am"---a declaration of self-existence and identity.
+Nevertheless, I first encountered it through Leslie Cheung's song *我 (I)*,
+which gave the phrase a personal, emotional meaning: the courage to be oneself.
 
 ## Site Project
 
