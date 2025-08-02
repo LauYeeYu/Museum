@@ -7,7 +7,7 @@ cover = 'cover.webp'
 description = 'A graduation music video reflecting four years of college life'
 +++
 
-*Feathers in the Wind (风起青翎)* is a graduation music video I created to
+*风起青翎 (Feathers in the Wind)* is a graduation music video I created to
 capture the essence of four years of college life.
 It features the changing emotions of a student upon graduation---from
 disoriented to ambitious---with memories of the past four years.
