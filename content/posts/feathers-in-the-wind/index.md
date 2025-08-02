@@ -7,6 +7,12 @@ cover = 'cover.webp'
 description = 'A graduation music video reflecting four years of college life'
 +++
 
+*Feathers in the Wind (风起青翎)* is a graduation music video I created to
+capture the essence of four years of college life.
+It features the changing emotions of a student upon graduation---from
+disoriented to ambitious---with memories of the past four years.
+
+<!-- more -->
 
 {{< bilibili bvid="BV15TKGzZE9R" >}}
 
@@ -47,3 +53,12 @@ Finally, he walks out of the university with a suitcase in hand.
 Behind him are the walls that held his youth; ahead is a wide, open road.
 With the memories of the past and the dreams of tomorrow, he steps forward
 into the unknown, ready for what comes next.
+
+## More on this Video
+
+Want to know how it was made? Read the full
+[behind-the-scenes story][behind-the-scenes] or the
+[Chinese (中文) version][behind-the-scenes-zh-cn].
+
+[behind-the-scenes]: https://lau.yeeyu.org/blog/behind-the-scenes-feathers-in-the-wind/
+[behind-the-scenes-zh-cn]: https://lau.yeeyu.org/blog-zh-cn/behind-the-scenes-feathers-in-the-wind/
