@@ -1,7 +1,7 @@
 # Makefile to generate blurred placeholders for .webp images
 
 # Find all .webp files excluding cover.webp
-WEBP_IMAGES := $(shell find content -type f -name "*.webp" ! -name "cover.webp" ! -name "*-placeholder.webp")
+WEBP_IMAGES := $(shell find content/posts -type f -name "*.webp" ! -name "cover.*" ! -name "*-placeholder.webp")
 
 # Generate placeholder names (replace .webp with -placeholder.webp)
 PLACEHOLDERS := $(WEBP_IMAGES:.webp=-placeholder.webp)
