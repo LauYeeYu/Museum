@@ -49,7 +49,7 @@ with my Sony ILCE-7M4 camera.
 
 ![Sakura (cherry blossom) in the campus of Shanghai Jiao Tong University, with a building in the background](sjtu-sakura.webp "Sakura in Shanghai Jiao Tong University (shot on 26 Mar 2025, Shanghai, China)")
 
-![Suzhou Creek, Zhejiang Road Bridge and Shanghai Postal Museum with its name inscribed by JIANG Zheming](suzhou-creek-zhejiang-road-bridge.jpg "Suzhou Creek and Zhejiang Road Bridge (shot on 19 Jan 2024, Shanghai, China)")
+![Suzhou Creek, Zhejiang Road Bridge and Shanghai Postal Museum with its name inscribed by JIANG Zheming](suzhou-creek-zhejiang-road-bridge.webp "Suzhou Creek and Zhejiang Road Bridge (shot on 19 Jan 2024, Shanghai, China)")
 
 ![Sunset at Revere Beach](revere-beach.webp "Sunset at Revere Beach (shot on 26 Feb 2025, Revere, MA, USA)")
 
