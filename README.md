@@ -16,7 +16,8 @@ collection of photos and videos.
     - It is recommended to name the cover image as "cover.webp".
 - Smooth picture loading
   - A blurred thumbnail is shown while the full image is loading.
-  - Once the full image is loaded, the blurred thumbnail will fade out.
+  - Once the full image is loaded, the blurred thumbnail will fade out
+    (Safari have some issues in smooth loading, which leads to white splash).
   - The project also have a Makefile that generates the blurred thumbnail
     for all images in the `content/posts/` directory (`cover.*` will be
     skipped). This is useful to save compute power on deployment, especially

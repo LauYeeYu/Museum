@@ -15,14 +15,14 @@ Elements such as exposure time, camera perspective, focal length, and bokeh
 work together to shape an image that, while reminiscent of reality, is
 inherently distinct.
 
-Videos, in contrast, represent a flow of moments, yet they too maintain a
+Video, in contrast, represent a flow of moments; yet they also maintain a
 certain separation from reality. This is achieved through techniques like
 montage[^1], camera angles and positioning, clip duration, and background
 sound, among others. Videos often convey richer ideas and emotions, making
 them even more meaningful than still images.
 
-I am deeply interested in the art of photography and video, and I'd love
-to share some of my photos and videos with you.
+I am deeply interested in the art of photography and videography, and I'd
+love to share some of my photos and videos with you.
 Since photos takes less effort to create, I'll be sharing more of them.
 
 I hope you enjoy the photos and videos I share here!
