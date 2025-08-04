@@ -2,7 +2,7 @@
 title = '风起青翎 (Feathers in the Wind)'
 date = 2025-07-27T11:00:00+08:00
 draft = false
-tags = ['video', 'graduation', 'college']
+tags = ['videos', 'graduation', 'college']
 cover = 'cover.webp'
 description = 'A graduation music video reflecting four years of college life'
 +++
