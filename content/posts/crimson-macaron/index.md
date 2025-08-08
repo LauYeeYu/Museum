@@ -23,7 +23,7 @@ F/5-6.3 DG DN OS lens, all taken in Seattle, Washington, USA.
 
 ## The Eclipse Process
 
-![The process of the lunar eclipse in 8 photos. The bright section became smaller gradually, and the red colour on the Earth's umbra became obvious eventually.](full-process.webp "The process of the lunar eclipse in 8 photos")
+![The process of the lunar eclipse in 9 photos. The bright section became smaller gradually, and the red colour on the Earth's umbra became obvious eventually.](full-process.webp "The process of the lunar eclipse in 9 photos")
 
 ### Pictures of the Process
 
