@@ -9,7 +9,7 @@ description = 'The beautiful blood Moon captured on 13 March 2025'
 
 On 13 March 2025, a total lunar eclipse occurred, which can be viewed in
 North America. This rare celestial event was a spectacular sight to behold.
-The bright section of the moon gradually dimmed and turned a deep red color,
+The bright section of the moon gradually dimmed and turned a deep red colour,
 earning it the nickname "Blood Moon".
 
 <!-- more -->
@@ -45,4 +45,4 @@ F/5-6.3 DG DN OS lens, all taken in Seattle, Washington, USA.
 
 ![The red Moon, also known as the Blood Moon, during the total lunar eclipse.](blood-moon.webp "The Crimson Macaron (shot at 10:52 PM)")
 
-![The blood Moon in the sky with stars in the background.](blood-moon-in-sky.webp "The Blood Moon in the sky (shot at 10:52 PM)")
+![The blood Moon in the sky with stars in the background.](blood-moon-in-sky.webp "The Crimson Macaron in the sky (shot at 10:52 PM)")
