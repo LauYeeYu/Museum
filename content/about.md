@@ -4,7 +4,7 @@ date = 2025-07-09T08:00:00+08:00
 draft = false
 +++
 
-I'm Yiyu Liu, an imcoming PhD student in Computer Science and also an amateur
+I'm Yiyu Liu, a PhD student in Computer Science and also an amateur
 photographer.
 For my research profile, please visit my [homepage](https://lau.yeeyu.org/).
 
