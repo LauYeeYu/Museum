@@ -21,7 +21,7 @@ with my Sony ILCE-7M4 camera.
 
 ![Fireworks in the sky over Lake Union during the 4th of July celebration](fourth-of-july-fireworks-lake-union.webp "Fireworks over Lake Union on Independence Day (shot on 4 Jul 2024, Seattle, WA, USA)")
 
-![Top view of Seattle, the Ocean and the Olympic Mountains from the Space Needle](space-needle-top-view.webp "Top view from the Space Needle (shot on 5 Sep 2024, Seattle, WA, USA)")
+![Top view of Seattle, the Ocean and the Olympic Mountains from the Space Needle](space-needle-top-view.webp "Top view from the Space Needle (shot on 5 Sept 2024, Seattle, WA, USA)")
 
 ![Aurora in the sky with a small port nearby and lights in the distance](aurora.webp "Aurora at Lighthouse Park (shot on 10 Oct 2024, Mukilteo, WA, USA)")
 
