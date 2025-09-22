@@ -1,6 +1,7 @@
 +++
 title = 'Crimson Macaron'
 date = 2025-08-08T20:00:00+08:00
+lastmod = 2025-09-21T23:00:00-04:00
 draft = false
 tags = ['photos', 'moon', 'astronomy']
 cover = 'cover.webp'
@@ -15,7 +16,7 @@ earning it the nickname "Blood Moon".
 <!-- more -->
 
 The pictures are all captured with my Sony ILCE-7M4 camera and Sigma 100-400mm
-F/5-6.3 DG DN OS lens, all taken in Seattle, Washington, USA.
+F/5.6--6.3 DG DN OS lens, all taken in Seattle, Washington, USA.
 
 ## The Pre-eclipse Full Moon
 
