@@ -15,7 +15,7 @@ earning it the nickname "Blood Moon".
 
 <!-- more -->
 
-The pictures are all captured with my Sony ILCE-7M4 camera and Sigma 100-400mm
+The pictures are all captured with my Sony ILCE-7M4 camera and Sigma 100--400mm
 F/5.6--6.3 DG DN OS lens, all taken in Seattle, Washington, USA.
 
 ## The Pre-eclipse Full Moon
