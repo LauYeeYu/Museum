@@ -1,14 +1,15 @@
 +++
 title = 'Amber Margarita'
 date = 2025-11-01T20:00:00-04:00
+lastmod = 2025-11-03T19:00:00-05:00
 draft = false
 tags = ['photos', 'light', 'colours']
 cover = 'cover.webp'
 description = 'A clean visual journey through the mixed tones of light, place, and memory.'
 +++
 
-> I enjoyed a margarita with my friend last month. The margarita, made with
-> tequila and orange liqueur, made a deep impression on me with its
+> I enjoyed a margarita with a friend of mine last month. The margarita, made
+> with tequila and orange liqueur, made a deep impression on me with its
 > great flavour, a clean but mixed taste of sweet, sour, and alcoholic---that's
 > why I named this post **Amber Margarita**. The photographs in this post
 > also share a similar feeling---mixed tones of light, place, and memory,
