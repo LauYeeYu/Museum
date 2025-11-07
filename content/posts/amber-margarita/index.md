@@ -5,7 +5,7 @@ lastmod = 2025-11-03T19:00:00-05:00
 draft = false
 tags = ['photos', 'light', 'colours']
 cover = 'cover.webp'
-description = 'A clean visual journey through the mixed tones of light, place, and memory.'
+description = 'A clean visual journey through the mixed tones of light, places, and memory'
 +++
 
 > I enjoyed a margarita with a friend of mine last month. The margarita, made
