@@ -38,7 +38,8 @@ PLACEHOLDERS := $(WEBP_IMAGES:.webp=-placeholder.webp)
 
 CHINESE_CHARACTERS := $(shell $(GREP) -P -o -r -h -I "\p{Han}" content/ | sort | uniq | tr -d '\n')
 
-CHINESE_FONTS := static/fonts/chinese-font.woff2
+CHINESE_FONT_REGULAR := static/fonts/chinese-font-regular.woff2
+CHINESE_FONT_BOLD := static/fonts/chinese-font-bold.woff2
 
 # Default target
 .PHONY: all
@@ -49,12 +50,17 @@ all: $(PLACEHOLDERS)
 	magick "$<" -resize 400x -blur 0x6 "$@"
 
 .PHONY: fonts
-fonts: ${CHINESE_FONTS}
+fonts: ${CHINESE_FONT_REGULAR} ${CHINESE_FONT_BOLD}
 
-${CHINESE_FONTS}: FORCE
+${CHINESE_FONT_REGULAR}: tmp/SourceHanSerifSC-Medium.otf FORCE
 	mkdir -p static/fonts
 	@echo "Find Chinese characters: ${CHINESE_CHARACTERS}"
-	pyftsubset tmp/SourceHanSerifSC.ttf --text="${CHINESE_CHARACTERS}" --flavor="woff2" --output-file="$@"
+	pyftsubset "$<" --text="${CHINESE_CHARACTERS}" --flavor="woff2" --output-file="$@"
+
+${CHINESE_FONT_BOLD}: tmp/SourceHanSerifSC-Heavy.otf FORCE
+	mkdir -p static/fonts
+	@echo "Find Chinese characters: ${CHINESE_CHARACTERS}"
+	pyftsubset "$<" --text="${CHINESE_CHARACTERS}" --flavor="woff2" --output-file="$@"
 
 .PHONY: FORCE
 FORCE:
@@ -69,12 +75,12 @@ download-fonts:
 	curl -s https://api.github.com/repos/adobe-fonts/source-han-serif/releases/latest \
 		| $(GREP) "SourceHanSerifSC.zip" | $(GREP) "browser_download_url" \
 		| cut -d '"' -f 4 | wget -O tmp/SourceHanSerifSC.zip -i -
-	unzip -p tmp/SourceHanSerifSC.zip OTF/SimplifiedChinese/SourceHanSerifSC-Regular.otf > tmp/SourceHanSerifSC.ttf
-	
+	unzip -p tmp/SourceHanSerifSC.zip OTF/SimplifiedChinese/SourceHanSerifSC-Medium.otf > tmp/SourceHanSerifSC-Medium.otf
+	unzip -p tmp/SourceHanSerifSC.zip OTF/SimplifiedChinese/SourceHanSerifSC-Heavy.otf > tmp/SourceHanSerifSC-Heavy.otf
 
 # Clean up all generated placeholders
 .PHONY: clean
 clean:
 	rm -f $(PLACEHOLDERS)
 	rm -rf tmp
-	rm -f static/fonts/chinese-font.woff2
+	rm -f static/fonts/chinese-font-*.woff2
