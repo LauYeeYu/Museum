@@ -17,7 +17,7 @@ inherently distinct.
 
 Video, in contrast, represent a flow of moments; yet they also maintain a
 certain separation from reality. This is achieved through techniques like
-montage[^1], camera angles and positioning, clip duration, and background
+montage,[^1] camera angles and positioning, clip duration, and background
 sound, among others. Videos often convey richer ideas and emotions, making
 them even more meaningful than still images.
 
